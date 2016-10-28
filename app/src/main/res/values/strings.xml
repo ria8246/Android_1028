@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name1">Test</string>
-    <string name="app_name2">Hello</string>
-    <string name="app_name3">Beer</string>
+    <string name="app_name">Test</string>
+    <string name="hello">Hello</string>
+    <string name="drink">Beer</string>
 </resources>
